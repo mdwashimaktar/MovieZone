@@ -11,7 +11,7 @@ const Movies = () => {
   return (
     <>
       <div className="my-3" style={{ width: "1000px", margin: "auto" }}>
-        <h1>Movies</h1>
+        
         <div className="mx-auto text-center">
           <button
             onClick={() => setMovieList(movies)}
